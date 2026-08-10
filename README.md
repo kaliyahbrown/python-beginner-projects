@@ -11,6 +11,7 @@ Computer Science student at Kennesaw State University and a member of the Honors
 - `hello.py` — My first Python program
 - `calculator.py` — A beginner calculator that performs addition, subtraction, multiplication, and division
 - `grade_calculator.py` — Converts a numerical grade into a letter grade using conditional statements
+- `number_guessing_game.py` — A guessing game that uses random numbers, loops, and conditional statements
 - More beginner projects coming soon
 
 ## Currently Learning
