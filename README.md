@@ -9,6 +9,7 @@ Computer Science student at Kennesaw State University and a member of the Honors
 ## Projects
 
 - `hello.py` — My first Python program
+- `calculator.py` — A beginner calculator that performs addition, subtraction, multiplication, and division
 - More beginner projects coming soon
 
 ## Currently Learning
